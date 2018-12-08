@@ -13,5 +13,5 @@ I built it to learn key React and Redux concepts such as using JSX to produce Re
 
 ## Getting started
 
-If you would like to run the code yourself, simply clone the repo, run ```npm install``` and then ```npm start```
+If you would like to run the code yourself, simply clone the repo, run ```npm install``` and then ```npm start```.
 
