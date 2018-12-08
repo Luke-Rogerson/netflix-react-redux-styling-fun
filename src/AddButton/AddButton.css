@@ -1,0 +1,15 @@
+.button {
+ border: none;
+ background: none;
+ color: white;
+ position: absolute;
+ top: 5%;
+ left: 80%;
+ width: 15%;
+}
+
+.content-container {
+  margin-left: 2.5vw;
+  margin-right: 2.5vw;
+  margin-top: 1.5vh;
+}

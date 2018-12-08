@@ -1,0 +1,14 @@
+.container {
+  position: relative;
+  margin-right: 0.5vw;
+}
+
+.movie-image {
+  width: 15vw;
+  transition: linear 0.2s;
+}
+/*
+.movie-image:hover {
+  width: 18vw;
+  transition: linear 0.2s;
+} */

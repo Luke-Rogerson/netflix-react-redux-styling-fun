@@ -1,0 +1,7 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: space-between;
+  margin-top: 5vh;
+  width: 100%;
+}

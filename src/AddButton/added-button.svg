@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Remove Button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chrome-window" transform="translate(-281.000000, -344.000000)">
+            <g id="PASTE-SCREENSHOT-IN-HERE" transform="translate(40.000000, 122.000000)">
+                <g id="recently-added" transform="translate(57.000000, 95.000000)">
+                    <g id="Remove-Button" transform="translate(185.000000, 128.000000)">
+                        <circle id="Oval-2" stroke="#FFFFFF" cx="11.5" cy="11.5" r="11.5"></circle>
+                        <g id="Tick" transform="translate(6.000000, 5.000000)" stroke="#E0E0E0" stroke-linecap="square">
+                            <path d="M0.934535435,6.00041853 L4.56072126,11.6000279" id="Line"></path>
+                            <path d="M9.63738142,1.20075335 L4.56072126,11.6000279" id="Line"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

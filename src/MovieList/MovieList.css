@@ -1,0 +1,4 @@
+.movie-container {
+  display: flex;
+  overflow-x: auto;
+}
